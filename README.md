@@ -26,6 +26,6 @@
   
 <div align="center">
 	<a href="https://portfolio.iteam-s.mg/?u=sergio"><img src="https://i1.wp.com/racontelemonde.cloud-sak.com/wp-content/uploads/2017/12/cropped-globe_PNG9.png?fit=512%2C512&ssl=1" width="30" height="30"></a> &nbsp; 
-	<a href="https://www.linkedin.com/in/louis-sergio-rakotoarisoa-484a661a8/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/linkedin.svg" width="30" height="30"></a> &nbsp;
-	<a href="mailto:sergiop20.aps1b@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.23.0/icons/gmail.svg" width="30" height="30"></a>
+	<a href="https://www.linkedin.com/in/louis-sergio-rakotoarisoa-484a661a8/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"></a> &nbsp;
+	<a href="mailto:sergiop20.aps1b@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="30" height="30"></a>
 </div>
