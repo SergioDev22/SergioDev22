@@ -3,9 +3,13 @@
 
 <div>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SergioDev22&theme=solarized-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats" /> <br/><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=SergioDev22&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
+
+  <p align='center'>
+    <img src='https://activity-graph.herokuapp.com/graph?username=SergioDev22&theme=gotham&hide_border=true&bg_color=ffffff00'/>
+  </p>
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/> 
