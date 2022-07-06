@@ -1,11 +1,6 @@
 <p align=center>  <strong> TONGASOA 😁</strong> <p>
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=RAKOTOARISOA+Louis+Sergio"></h1>
 
-<div>
-  <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=SergioDev22&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/><br/>
-  </p>
-</div>
 
   <p align='center'>
     <img src='https://activity-graph.herokuapp.com/graph?username=SergioDev22&theme=gotham&hide_border=true&bg_color=ffffff00'/>
