@@ -10,7 +10,8 @@
     <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/> 
     <img src="https://img.shields.io/badge/-HTML-E44D26?&style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-CSS-42A5F5?&style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-Php-1E87E3?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
+     <img src="https://img.shields.io/badge/-JS-42A5F5?&style=for-the-badge&logo=js&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/-NODEJS-42A5F5?&style=for-the-badge&logo=nodejs3&logoColor=FFFFFF"/>
     <br>
     <img src="https://img.shields.io/badge/-MongoDb-1BEFCF?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-MySQL-E6892E?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
