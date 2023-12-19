@@ -2,21 +2,26 @@
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=RAKOTOARISOA+Louis+Sergio"></h1>
 
 
-  <p align='center'>
-    <img src='https://activity-graph.herokuapp.com/graph?username=SergioDev22&theme=gotham&hide_border=true&bg_color=ffffff00'/>
-  </p>
+ 
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/> 
-    <img src="https://img.shields.io/badge/-HTML-E44D26?&style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-CSS-42A5F5?&style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
-     <img src="https://img.shields.io/badge/-JS-42A5F5?&style=for-the-badge&logo=js&logoColor=FFFFFF"/>
-      <img src="https://img.shields.io/badge/-NODEJS-42A5F5?&style=for-the-badge&logo=nodejs3&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-React-396E9B?style=for-the-badge&logo=react&logoColor=FFFFFF"/> 
+	<img src="https://img.shields.io/badge/-Django-396E9B?style=for-the-badge&logo=django&logoColor=FFFFFF"/>
+	<img src="https://img.shields.io/badge/-FastAPI-396E9B?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
+	<img src="https://img.shields.io/badge/-Flask-396E9B?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+	<img src="https://img.shields.io/badge/-Redux-396E9B?style=for-the-badge&logo=redux&logoColor=FFFFFF"/>
+	<img src="https://img.shields.io/badge/-Express-396E9B?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
     <br>
-    <img src="https://img.shields.io/badge/-MongoDb-1BEFCF?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-MySQL-E6892E?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
+ <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/> 
+     <img src="https://img.shields.io/badge/-JS-42A5F5?&style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+	 <img src="https://img.shields.io/badge/-TS-42A5F5?&style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/-NODEJS-42A5F5?&style=for-the-badge&logo=node-js3&logoColor=FFFFFF"/>
+	<img src="https://img.shields.io/badge/-sql-396E9B?style=for-the-badge&logo=sql&logoColor=FFFFFF"/>
+	<br>
+    <img src="https://img.shields.io/badge/-MySQL-E6892E?style=for-the-badge&logo=mysql&logoColor=000000"/>
+	<img src="https://img.shields.io/badge/-PostgreSQL-E6892E?style=for-the-badge&logo=postgresql&logoColor=000000"/>
     <br>
-    <img src="https://img.shields.io/badge/-Linux-F9F63C?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Linux-F9F63C?style=for-the-badge&logo=linux&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-Windows-3CB7F9?style=for-the-badge&logo=windows&logoColor=FFFFFF"/>
     <br>
     <img src="https://img.shields.io/badge/-Chatbot-1BEFCF?style=for-the-badge&logo=chatbot&logoColor=FFFFFF"/>
