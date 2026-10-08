@@ -21,8 +21,8 @@ nom:        RAKOTOARISOA Louis Sergio
 localisation: Madagascar 🇲🇬
 rôle:       Full-Stack Developer
 actuellement:
-  - Développeur Odoo        @ ABM INNOV
-  - Développeur Python      @ KOLLEKTIV IT   # data pipelines · GCP
+  - Développeur Odoo      
+  - Développeur Python
 focus:      [ERP Odoo, Backend Python, Data Engineering, Cloud]
 devise:     "Code. Deploy. Repeat."
 ```
